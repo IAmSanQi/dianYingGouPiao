@@ -1,0 +1,38 @@
+{
+  "name": "dianyinggoupiao_vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@element-plus/icons": "^0.0.11",
+    "@element-plus/icons-vue": "^2.1.0",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.3.14",
+    "moment": "^2.30.1",
+    "vue": "^3.2.13",
+    "vue-baidu-map-3x": "^1.0.38",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "axios": "^1.4.0",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.3.1",
+    "vue-cli-plugin-axios": "~0.0.4",
+    "vue-cli-plugin-element-plus": "~0.0.13"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}

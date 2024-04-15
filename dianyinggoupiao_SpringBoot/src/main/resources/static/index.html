@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8">
+	<title>Index Page</title>
+</head>
+<body>
+<!--get 用th:action 或 th:href 属性指定调用 Controller 中的方法-->
+	<a th:href="@{/CinemaAndMovieService/findNameByMovie}">Say Hello!</a>
+<!--使用 method="post" 属性指定表单的请求方法为 POST，并使用 action 属性指定表单提交的路由-->
+	<form method="post" action="/Greet">
+<!--		显性-->
+		<input type="text" name="name">
+<!--		隐藏输入框-->
+		<input type="hidden" name="param1" value="value1">
+		<input type="hidden" name="param2" value="value2">
+<!--		<button type="submit">Greet</button>-->
+	</form>
+
+<!--测试-->
+<form method="post" action="/CinemaAndMovieService/findNameByMovie">
+	<input type="hidden" name="cinemaName" value="cinema1">
+	<button type="submit">查询</button>
+</form>
+</body>
+</html>

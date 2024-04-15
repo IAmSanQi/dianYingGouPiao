@@ -1,0 +1,43 @@
+Spring:
+    datasource:
+        url: jdbc:mysql://localhost:3306/dianyinggoupiao?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
+        username: root
+        password: czflove...
+        driver-class-name: com.mysql.cj.jdbc.Driver
+    profiles:
+        active: dev
+    jpa:
+        show-sql: false
+        properties:
+            hibernate:
+                format_sql: false
+                naming:
+                    physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    mvc:
+        servlet:
+            load-on-startup: 1
+
+
+
+server:
+    port: 8181
+
+alipay:
+    url: https://openapi-sandbox.dl.alipaydev.com/gateway.do
+    appid: 9021000126644891
+    privateKey: MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfyQQeNuy/2kpqavNFC8nS0DN6+0kjIUdSf+6YY+AXgDKO/g6WeqDsEhatNG8J1c9+hpJiEzdNV/PV3Kd3RJivrdBkIqbm19M6+Ck8slCOzIEehZxuFWCFsaR2bvAt4ujQ0uV6vD2KMUbEptc0DQ70pkAgyTV9mkqEVne7EIhZ+w/2I4qhW/L0ek7RBEZhwSk93AkubHKrj288UtX9HvyUoAqi5sZdzoMLiKZF7FumOfwMED5dKF/VqR7sJhlt6AVz2w2gdElowwQunWG0JfBf/DP/BavaeDeIb6CjFFs45IaoVQo1OgkCCHWc/ZtB1ep0OERnDWZ/XUHG5EFhGkLhAgMBAAECggEAaowLT+6GHkR8fMvGXhNHSGkG+wnXMjK9sXiXbEylIGae0BT/Oz6YUfKZ5nNhW6iUTSWFNRrlNJDiiogxr2kxe2wm2q70plfihZ73OH8bEq2xp92mew2MKHpVVZgSVjbJ0n3fAeHGE4FaVEWAmTff8ilt967UGWYqLGbQPg//LCgdFTVmk0K0xprltMR3b/tgjprqK0e+dd2TgeyUaG8XLfCS6r3w4csVyoMEbNLJKMqhStnWTe+gGp87bp1JFq4u4LicaPijPwbQ3DoaQDH1CnpJjql6jmLoabRn5cD9B7Y/A80U8QmTMkGmwzDqcrKy2XCUVFdbdE6RReDJYRtPwQKBgQDQ1hNCqD8PUaj4a8wdgpBv7dKn9y1V96SOzgYb7hfb3Q/g9EsxhrhoECqKTJ/J0viVgbzxb7QvlUkF31VcfgEXremDhrE4bCLS8L4wElmruDVV2WQs6RaTLRsHcA5u3vX4SUGTHcQNC3ho03PuSE2/UQ5tborS3rym4XqX/xIpiQKBgQDD3wr+Hhe6ZNkUdbbm5AM1woc9bx7cC2sGHMSIToUJLHF0wZalM/6HiGZbkbAG1E4nJHFGYTDJRb1E0+Ubpjf7h0EaFiu2Ux5cxawHA26LedYoKzmaZ+vEy3KU+wn77fAuLtQ9zkAkX15uw1eIjVEAKA7mcrEmHUMGsTe7hRfwmQKBgG5pECvIufZGbThR/cuIUQbsTNiC5VQzJqxdnns7yR9z48ZCQlL/8BUMnwEZe81/ne+ldRiMv0389muFZSMOd1NmnjPsjVvQSCUQJO1TdldEf+ZQlhbscQQE7+phwy+474CCconuTc27x8BcM0nCrmA84YzXycus+T6drWwY7ihJAoGAETiQ/Nqkd2zacSQQWqh9Z8KcpVgZvHr8g+MPnHRa2f2gVAWZOxkhLcVeSnq6oT8VR/e6RdfRtEB/bYe7wvyQO3sezC5a1YLlTn7KqyswEu85VvrF679rSTgh8NtJe27mCQlw+6YgmZIQ+WgPUCAsmPjspnI7BQDZncMDBWekPTECgYBLDCAfmtzrql5OIG9/llXIWwcPWmiQgyorGlUmCea6lZRv0eCV2/pyoeSDMZtEJo6V9ZdiHtPLV94Bp00vdgzgYC+xma1LnKbwOTq2MWJ1kP7cGUDKf0kkG7QjcGRS6ty04juyzcuncdRupI6Bg0qOnf4te6Y+X1U++h5xgkJTOQ==
+    publicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1DRk7j9pqzjygoJu9cTOLgu76vUJJr3T50f5Vm/bCKxO1OmRJwLit0WDTsgdjG1dvFvSyoRZCz+aE2LCx+PeodBzqOCpL7reTpKEJ6Q8qo2wdbC53clJ3O5HwCqddYNyVlQObVrxS7FSvj4DyWMXB5sS34KCoZjZy5EVYi32K4mHCCuPzLlnLBfxGkHe4h9lmePFaYi8jL8FrGyec6pHNzaZjyg+MYPIhEuDmbd2x9RI3ZbXSEyg4rtVDYqg38sCIWMN1RRm2WFEm7KmQ3oexLeiq88GjIxnsGqZjZBnwzs7XI8YVwNzhok0erKnGZgGrGi/xhaQtx4UDgQYvOoxRQIDAQAB
+    notifyUrl: http://localhost:8080/Order
+    returnUrl: http://localhost:8080/ALiPayQuery
+#买家账号：
+#   nqdtoc6983@sandbox.com
+#密码：
+#   111111
+#商户账号：
+#   phxoac0885@sandbox.com
+#密码：
+#   111111
+
+
+
+

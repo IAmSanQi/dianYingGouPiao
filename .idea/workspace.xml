@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="99882585-e6c6-4215-8731-1085dbbc4f12" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../devSofts/maven/apache-maven-3.8.6-bin/apache-maven-3.8.6" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\idea\devSofts\maven\apache-maven-3.8.6-bin\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/dianyinggoupiao_vue/package.json" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Pr3AnHS9rMXcRELLFa3TvjbA88" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelOrder2": "2",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RequestMappingsPanelWidth2": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/idea/ideaWorkSpace/SpringBoot_Vue/dianyinggoupiao_SpringBoot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.19607843",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
+    "spring.configuration.checksum": "34f7f9197e8ad0b12fa027965c2a6ade",
+    "ts.external.directory.path": "D:\\idea\\IntelliJ IDEA 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\ideaWorkSpace\SpringBoot_Vue\dianyinggoupiao_vue\src\assets" />
+      <recent name="D:\idea\ideaWorkSpace\SpringBoot_Vue\dianyinggoupiao_vue\src\plugins" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\ideaWorkSpace\SpringBoot_Vue\dianyinggoupiao_SpringBoot\src\main\resources" />
+      <recent name="D:\idea\ideaWorkSpace\SpringBoot_Vue\dianyinggoupiao_SpringBoot\src\main" />
+      <recent name="D:\idea\ideaWorkSpace\SpringBoot_Vue\dianyinggoupiao_vue\src\plugins" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.dianyinggoupiao_springboot.repositroy" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.dianyinggoupiao_springboot.repositroy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.DianyinggoupiaoSpringBootApplication">
+    <configuration name="DianyinggoupiaoSpringBootApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.dianyinggoupiao_springboot.DianyinggoupiaoSpringBootApplication" />
+      <module name="dianyinggoupiao_SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dianyinggoupiao_springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DianyinggoupiaoSpringBootApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dianyinggoupiao_SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dianyinggoupiao_springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.dianyinggoupiao_springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dianyinggoupiao_springboot.DianyinggoupiaoSpringBootApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PiaoRepositroyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dianyinggoupiao_SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dianyinggoupiao_springboot.server.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.dianyinggoupiao_springboot.repositroy" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dianyinggoupiao_springboot.repositroy.PiaoRepositroyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PiaoRepositroyTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dianyinggoupiao_SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dianyinggoupiao_springboot.server.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.dianyinggoupiao_springboot.repositroy" />
+      <option name="MAIN_CLASS_NAME" value="com.example.dianyinggoupiao_springboot.repositroy.PiaoRepositroyTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SpringBoot_Vue" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SpringBoot_Vue" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DianyinggoupiaoSpringBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <module name="dianyinggoupiao_SpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.dianyinggoupiao_springboot.DianyinggoupiaoSpringBootApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.dianyinggoupiao_springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DianyinggoupiaoSpringBootApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.PiaoRepositroyTest" />
+      <item itemvalue="JUnit.PiaoRepositroyTest.findAll" />
+      <item itemvalue="Spring Boot.DianyinggoupiaoSpringBootApplication" />
+      <item itemvalue="应用程序.DianyinggoupiaoSpringBootApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.DianyinggoupiaoSpringBootApplication" />
+        <item itemvalue="Spring Boot.DianyinggoupiaoSpringBootApplication" />
+        <item itemvalue="JUnit.DianyinggoupiaoSpringBootApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.PiaoRepositroyTest" />
+        <item itemvalue="JUnit.PiaoRepositroyTest.findAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="99882585-e6c6-4215-8731-1085dbbc4f12" name="变更" comment="" />
+      <created>1684201231263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684201231263</updated>
+      <workItem from="1684201232515" duration="17704000" />
+      <workItem from="1684239180352" duration="662000" />
+      <workItem from="1684284874521" duration="193000" />
+      <workItem from="1684287763197" duration="873000" />
+      <workItem from="1684288662749" duration="7000" />
+      <workItem from="1684479366735" duration="12613000" />
+      <workItem from="1684714645957" duration="30877000" />
+      <workItem from="1684801229029" duration="11543000" />
+      <workItem from="1684887087207" duration="16263000" />
+      <workItem from="1684911863380" duration="992000" />
+      <workItem from="1684912868105" duration="1657000" />
+      <workItem from="1684914547848" duration="31000" />
+      <workItem from="1684914647897" duration="5360000" />
+      <workItem from="1684974772744" duration="20902000" />
+      <workItem from="1685004269183" duration="7951000" />
+      <workItem from="1685060003507" duration="19463000" />
+      <workItem from="1685168730548" duration="15895000" />
+      <workItem from="1685273599661" duration="1210000" />
+      <workItem from="1685320307256" duration="27773000" />
+      <workItem from="1685406121677" duration="25502000" />
+      <workItem from="1685492281868" duration="24197000" />
+      <workItem from="1685579930789" duration="23817000" />
+      <workItem from="1685666225922" duration="7626000" />
+      <workItem from="1685784684661" duration="9000" />
+      <workItem from="1685924102734" duration="7276000" />
+      <workItem from="1685931463484" duration="215000" />
+      <workItem from="1685931683361" duration="520000" />
+      <workItem from="1685932208800" duration="81000" />
+      <workItem from="1685932292787" duration="63000" />
+      <workItem from="1685932366047" duration="28000" />
+      <workItem from="1685932411553" duration="672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
